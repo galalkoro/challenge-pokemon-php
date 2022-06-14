@@ -23,7 +23,6 @@
         <span class="error">Not Found!</span>
       </main>
 
-
     <script src="./scripts/index.js"></script>
 </body>
 </html>
